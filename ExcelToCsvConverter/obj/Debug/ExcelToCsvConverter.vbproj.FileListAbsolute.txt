@@ -1,0 +1,13 @@
+D:\A6_Projects\OtherC#Projects\ExcelToCsvConverter\ExcelToCsvConverter\bin\Debug\ExcelToCsvConverter.exe.config
+D:\A6_Projects\OtherC#Projects\ExcelToCsvConverter\ExcelToCsvConverter\bin\Debug\ExcelToCsvConverter.exe
+D:\A6_Projects\OtherC#Projects\ExcelToCsvConverter\ExcelToCsvConverter\bin\Debug\ExcelToCsvConverter.pdb
+D:\A6_Projects\OtherC#Projects\ExcelToCsvConverter\ExcelToCsvConverter\bin\Debug\ExcelToCsvConverter.xml
+D:\A6_Projects\OtherC#Projects\ExcelToCsvConverter\ExcelToCsvConverter\bin\Debug\Excel.dll
+D:\A6_Projects\OtherC#Projects\ExcelToCsvConverter\ExcelToCsvConverter\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\A6_Projects\OtherC#Projects\ExcelToCsvConverter\ExcelToCsvConverter\obj\Debug\ExcelToCsvConverter.frmXlsToCsv.resources
+D:\A6_Projects\OtherC#Projects\ExcelToCsvConverter\ExcelToCsvConverter\obj\Debug\ExcelToCsvConverter.Resources.resources
+D:\A6_Projects\OtherC#Projects\ExcelToCsvConverter\ExcelToCsvConverter\obj\Debug\ExcelToCsvConverter.vbproj.GenerateResource.Cache
+D:\A6_Projects\OtherC#Projects\ExcelToCsvConverter\ExcelToCsvConverter\obj\Debug\ExcelToCsvConverter.exe
+D:\A6_Projects\OtherC#Projects\ExcelToCsvConverter\ExcelToCsvConverter\obj\Debug\ExcelToCsvConverter.xml
+D:\A6_Projects\OtherC#Projects\ExcelToCsvConverter\ExcelToCsvConverter\obj\Debug\ExcelToCsvConverter.pdb
+D:\A6_Projects\OtherC#Projects\ExcelToCsvConverter\ExcelToCsvConverter\obj\Debug\ExcelToCsvConverter.vbprojResolveAssemblyReference.cache
